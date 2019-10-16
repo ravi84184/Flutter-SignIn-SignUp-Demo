@@ -1,6 +1,6 @@
-# flutter_firebase
+# flutter_firebase_auth
 
-A new Flutter application.
+Firebase Authantication
 
 ## Getting Started
 
